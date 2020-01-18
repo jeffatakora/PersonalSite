@@ -18,10 +18,10 @@ window.onload = function() {
 
   var messages = [
     'Hey there 👋',
-    'I\'m Nana Sarfo Boateng Jeff Atakora Boadu III',
-    'I develop Native Mobile Application (ANDROID) and Web Application System',
+    'I\'m Boadu jeff Atakora',
+    'I develop Native  and Cross Platform Mobile Application (ANDROID & Flutter) and Web Application System',
     'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:nanaboatengjeff63@gmail.com">nanaboatengjeff63@gmail.com</a>',
-    '<a target="_blank" href="https://twitter.com/boateng_jeffson">twitter.com/@boateng_jeffson</a><br><a target="_blank" href="https://instagram.com/king_jeffson">instagram.com/king_jeffson</a><br><a target="_blank" href="https://facebook.com/Nana Boateng Jeff">cfacebook/NanaBoatengJeff</a><br><a target="_blank" href="https://github.com/jeffatakora">github.com/jeffatakora</a>',
+    '<a target="_blank" href="https://twitter.com/boateng_jeffson">twitter.com/@boateng_jeffson</a><br><a target="_blank" href="https://instagram.com/king_jeffson">instagram.com/king_jeffson</a><br><a target="_blank" href="https://facebook.com/Nana Boateng Jeff">facebook/NanaBoatengJeff</a><br><a target="_blank" href="https://github.com/jeffatakora">github.com/jeffatakora</a>',
     'Slogan : "Once bitten twice shy."',
     getCurrentTime(),
     '👀 Jeff.'
